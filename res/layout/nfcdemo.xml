@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:background="@drawable/nfc"
+    android:orientation="vertical"
+    android:layout_gravity="center" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="320dp"
+        android:layout_height="243dp"
+        android:layout_weight="0.20"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/textView_explanation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.01"
+        android:text="@string/explanation" />
+
+</LinearLayout>

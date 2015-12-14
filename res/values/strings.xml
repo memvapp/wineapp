@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Presione el boton para leer el codigo de barras</string>
+    <string name="app_name">AWine</string>
+    <string name="title_inicio">AWine</string>
+    <string name="explanation">Leer_tag_NFC</string>
+    <string name="Lectornfc">lector NFC</string>
+    <string name="codbdd">codigo</string>
+   
+
+</resources>
